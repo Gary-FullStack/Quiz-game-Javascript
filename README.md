@@ -4,4 +4,4 @@
  Simple quiz program that shows use of arrays.
  
  
- This is #1 of my 100 coding project for 2023.
+ This is #1 of 100 coding project for 2023.
